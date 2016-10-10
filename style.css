@@ -1,0 +1,16 @@
+body
+{
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+.footer, .header
+{
+    color: #aaaaaa;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 85%;
+}
+
+a
+{
+    text-decoration: none;
+}
