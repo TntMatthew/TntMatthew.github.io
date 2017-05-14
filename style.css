@@ -14,3 +14,9 @@ a
 {
     text-decoration: none;
 }
+
+code
+{
+    background-color: #F0F0F0;
+    padding: 2px;
+}
