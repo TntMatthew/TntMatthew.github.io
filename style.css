@@ -16,6 +16,16 @@ a
     text-decoration: none;
 }
 
+a.social
+{
+    color: #555555;
+}
+
+a.social:hover
+{
+    color: #000000;
+}
+
 code
 {
     background-color: #F0F0F0;
