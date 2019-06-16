@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Blog
 ---
 {% for post in site.posts %}
@@ -9,7 +8,7 @@ title: Blog
         Posted: {{ post.date | date_to_string }}
     </div>
     <p>{{ post.excerpt }}</p>
-    <a class="readmore" href="{{ post.url}}">⯈ Read more</a>
+    <a class="readmore" href="{{ post.url}}">⯈ View post</a>
     <hr style="margin-top: 10px;" />
 </div>
 {% endfor %}
